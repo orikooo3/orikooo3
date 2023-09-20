@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 README.md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={orikooo3}
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> 
